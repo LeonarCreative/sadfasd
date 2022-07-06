@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"9a340d8a5d43032d44d99e88ba26ce80","lockfileHash":"28cbb0a8f06b66f529f575c1bd7c5330","guessedImports":["discord.js","@discordjs/rest","discord-api-types","mongoose","moment","discord-html-transcripts"],"guessedImportsHash":"5818c2a5461c2af764a015b73b74655d"}}}
